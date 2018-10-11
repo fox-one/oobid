@@ -1,6 +1,6 @@
 # oobid
 
-oobid is a simple tool for generating transfer url for mixin messager. It support ocean one making order style memo.
+oobid is a simple tool for generating transfer url for mixin messenger. It support ocean one making order style memo.
 
 ## Usage
 
